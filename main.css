@@ -51,6 +51,12 @@ main{
     padding-left:8px;
     Padding-top:2px;
 }
+#versi{
+    margin-top: 12px;
+}
+#cita{
+    padding: 6px 0px 2px 17px;
+}
 .text p{
     color:white;
     font-size:12px;
